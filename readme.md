@@ -87,7 +87,7 @@ MA-L,286FB9,Nokia Shanghai Bell Co., Ltd.,...
 
 MA-L,F4EAB5,Extreme Networks Headquarters,...
 
-Еще одно предупреждение
+**Еще одно предупреждение**
 
 Данный инструмент предназначен исключительно для:
 
